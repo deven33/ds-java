@@ -20,6 +20,7 @@ public class Selection {
 			arr[min_pos] = arr[i];
 			arr[i] = t;
 		}
+		System.out.println("Big O::O(n^2)::");
 		System.out.println(Arrays.toString(arr));
 	}
 
