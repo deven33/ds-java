@@ -1,6 +1,6 @@
 package dspractice.list.linkedlist.singlelylinkedlist;
 
-public class LinkedLIST {
+public class Application {
 	public static void main(String[] args) {
 		Employee devameta = new Employee("Dev", "Ameta", 1);
 		Employee dev2ameta = new Employee("Dev2", "Ameta2", 2);
